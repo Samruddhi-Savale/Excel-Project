@@ -22,8 +22,11 @@ This project demonstrates strong skills in **data cleaning, analysis, and visual
 * The dataset contains customer details, income, age group, gender, commute distance, and bike purchase status.
 * Data was cleaned and transformed directly in Excel for analysis.
 
-**Dataset Link:**
-*https://github.com/Samruddhi-Savale/Excel-Project/blob/main/Bike%20Sales%20EXCEL_PROJECT.xlsx*
+**Dataset Used:**
+<a href = "https://github.com/Samruddhi-Savale/Excel-Project/blob/main/Bike%20Sales%20EXCEL_PROJECT.xlsx"> Dataset View </a>
+
+**Dashboard View:**
+<a href = "https://github.com/Samruddhi-Savale/Excel-Project/blob/main/Screenshot%202025-12-15%20134209.png"> Dashboard View </a>
 
 ---
 
@@ -53,9 +56,7 @@ The dashboard provides insights such as:
 * Interactive filters/slicers for dynamic analysis
 
 **Dashboard Image:**
-*https://github.com/Samruddhi-Savale/Excel-Project/blob/main/Screenshot%202025-12-15%20134209.png*
 <img width="1858" height="781" alt="Screenshot 2025-12-15 134209" src="https://github.com/user-attachments/assets/175cefad-bb54-435d-b3bd-2aa5755b2c67" />
-
 
 **Dashboard Walkthrough Video:**
 *https://github.com/Samruddhi-Savale/Excel-Project/blob/main/Bike%20Sales%20Vid.mp4*
@@ -80,6 +81,7 @@ The dashboard provides insights such as:
 ---
 
 **GitHub:** *https://github.com/Samruddhi-Savale/Excel-Project.git*
+
 **LinkedIn:** *https://www.linkedin.com/in/samruddhi-savale-7119a4284/*
 
 ---
