@@ -41,8 +41,7 @@ Bike Sales Dashboard Video:
 
 
 Bike Sales Dashboard Image:
-
-`assets/bike_sales_dashboard_walkthrough.png`
+ `assets/bike_sales_dashboard_walkthrough.png`
 
 
 
@@ -50,7 +49,7 @@ Bike Sales Dashboard Image:
 The dataset is included in this repository for analysis purposes.
 
 `data/bike_sales_dataset.xlsx`
-<a href = "https://github.com/Samruddhi-Savale/Excel-Project/blob/main/data/Bike_Sales.xlsx"> Dataset </a>
+   <a href = "https://github.com/Samruddhi-Savale/Excel-Project/blob/main/data/Bike_Sales.xlsx"> Dataset </a>
 
 
 ## GitHub: 
