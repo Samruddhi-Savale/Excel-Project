@@ -56,7 +56,7 @@ Bike Sales Dashboard Video: <a href = "https://github.com/Samruddhi-Savale/Excel
 
 ## Dataset Used
 The dataset is included in this repository for analysis purposes.
-<a href = "https://github.com/Samruddhi-Savale/Excel-Project/blob/main/data/Bike_Sales.xlsx"> Dataset </a>
+<a href = "https://github.com/Samruddhi-Savale/Excel-Project/tree/main/data"> Dataset </a>
 
 ---
 
