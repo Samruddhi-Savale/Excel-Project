@@ -50,7 +50,7 @@ This project analyzes bike sales data using Microsoft Excel to identify customer
 ---
 
 ## Project Walkthrough
-Bike Sales Dashboard Video: <a href = "https://github.com/Samruddhi-Savale/Excel-Project/blob/main/assets/filename.mp4"> Dashboard Video </a>
+Bike Sales Dashboard Video: <a href = "https://github.com/Samruddhi-Savale/Excel-Project/blob/main/assets/Bike%20Sales%20Vid.mp4"> Dashboard Video </a>
 
 Bike Sales Dashboard Video: <a href = "https://github.com/Samruddhi-Savale/Excel-Project/blob/main/assets/filename.png"> Dashboard Image </a>
 
