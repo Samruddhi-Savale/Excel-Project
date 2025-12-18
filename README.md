@@ -6,7 +6,7 @@ This project analyzes bike sales data using Microsoft Excel to identify customer
 ---
 
 ## Objective
-- Understand customer demographics  
+- Understand customer demographics 
 - Analyze purchasing patterns  
 - Build a clean, interactive Excel dashboard for business decision-making  
 
