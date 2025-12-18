@@ -36,21 +36,17 @@ This project analyzes bike sales data using Microsoft Excel to identify customer
 ![Bike Sales Dashboard](assets/dashboard_screenshot.png)
 
 ## Project Walkthrough
-Bike Sales Dashboard Video:  
+Bike Sales Dashboard Video:
 `assets/bike_sales_dashboard_walkthrough.mp4`
 
-
-Bike Sales Dashboard Image:
- `assets/bike_sales_dashboard_walkthrough.png`
-
-
+Bike Sales Dashboard Video:
+`assets/bike_sales_dashboard_walkthrough.mp4`
 
 ## Dataset Used
 The dataset is included in this repository for analysis purposes.
 
 `data/bike_sales_dataset.xlsx`
-   <a href = "https://github.com/Samruddhi-Savale/Excel-Project/blob/main/data/Bike_Sales.xlsx"> Dataset </a>
-
+  <a href = "https://github.com/Samruddhi-Savale/Excel-Project/blob/main/data/Bike_Sales.xlsx"> Dataset </a>
 
 ## GitHub: 
 ## LinkedIn:  
