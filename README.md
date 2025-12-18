@@ -64,9 +64,9 @@ The dataset is included in this repository for analysis purposes.
 **Samruddhi Savale**
 Aspiring Data Analyst | SQL | Python | Power BI | Excel | Data Visualization | Data Cleaning
 
-**GitHub:**
+- **GitHub:**
 https://github.com/Samruddhi-Savale/Excel-Project.git
-**LinkedIn:**  
+- **LinkedIn:**  
 https://www.linkedin.com/in/samruddhi-savale-7119a4284/
 
 ---
