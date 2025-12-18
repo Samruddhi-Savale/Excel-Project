@@ -13,7 +13,7 @@ This project demonstrates strong skills in **data cleaning, analysis, and visual
 * Analyze customer demographics and purchasing behavior
 * Identify key factors influencing bike sales
 * Build an interactive dashboard for quick decision-making
-* Present insights in a clear, recruiter-friendly format
+* Present insights in a clear format
 
 ---
 
