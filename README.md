@@ -41,11 +41,15 @@ Bike Sales Dashboard Video:
 
 
 Bike Sales Dashboard Image:
+
 `assets/bike_sales_dashboard_walkthrough.png`
 
 
 ## Dataset Used
 The dataset is included in this repository for analysis purposes.
+
+`data/bike_sales_dataset.xlsx`
+
 
 ## GitHub: 
 ## LinkedIn:  
