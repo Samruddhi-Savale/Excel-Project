@@ -8,7 +8,7 @@ This project demonstrates strong skills in **data cleaning, analysis, and visual
 
 ---
 
-## Objectives
+## Objectives 
 
 * Analyze customer demographics and purchasing behavior
 * Identify key factors influencing bike sales
